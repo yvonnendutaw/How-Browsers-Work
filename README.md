@@ -15,3 +15,5 @@ For example, one IP address for Google is 74.125.134.102. You can enter 74.125.1
 
 Once the browser has the IP address it sends an HTTP request to the web server at that address. HTTP stands for “Hypertext Transfer Protocol” and is used to facilitate requests from your client (the browser) and responses from the server. In our case the response is HTML from the web server at www.google.com.[Martha Girlder](http://skillcrush.com/2013/02/24/how-browsers-work/)
 
+
+
