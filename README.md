@@ -1,6 +1,6 @@
 # How-Browsers-Work
 ## Research on how browsers work
-A browser is a group of structured codes that performs plenty of tasks to display a webpage on the screen. These codes are separated in to different components according to their tasks performed. The structure of a browser is shown in the below image. There are five major browsers;
+A **browser** is a group of structured codes that performs plenty of tasks to display a webpage on the screen. These codes are separated in to different components according to their tasks performed. The structure of a browser is shown in the below image. There are five major browsers;
 * Chrome
 * Firefox
 * Safari
